@@ -1,0 +1,10 @@
+{
+    "helloWorld": "Hola Mundo!",
+    "emailAddress": "Email Address",
+    "password": "Clave",
+    "login": "Acceso",
+    "emailCannotBeEmpty": "El correo electrónico no puede estar vacío",
+    "emailFormatIncorrect": "Formato de correo electrónico incorrecto",
+    "passwordCannotBeEmpty": "La contraseña no puede estar vacía",
+    "passwordLength": "La contraseña debe tener al menos seis caracteres"
+}

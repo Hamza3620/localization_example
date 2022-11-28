@@ -1,0 +1,10 @@
+{
+    "helloWorld": "Bonjour le monde!",
+    "emailAddress": "Dirección de correo electrónico",
+    "password": "Mot de passe",
+    "login": "Connexion",
+    "emailCannotBeEmpty": "L'e-mail ne peut pas être vide",
+    "emailFormatIncorrect": "Format d'e-mail incorrect",
+    "passwordCannotBeEmpty": "Le mot de passe ne peut pas être vide",
+    "passwordLength": "Le mot de passe doit comporter au moins six caractères"
+}

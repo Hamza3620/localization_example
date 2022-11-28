@@ -1,0 +1,10 @@
+{
+    "helloWorld": "مرحبا بالعالم",
+    "emailAddress": "عنوان البريد الالكترونى",
+    "password": "كلمة المرور",
+    "login": "تسجيل الدخول",
+    "emailCannotBeEmpty": "لا يمكن أن يكون البريد الإلكتروني فارغًا",
+    "emailFormatIncorrect": "تنسيق بريد إلكتروني غير صحيح",
+    "passwordCannotBeEmpty": "لا يمكن أن تكون كلمة المرور فارغة",
+    "passwordLength": "يجب أن تتكون كلمة المرور من ستة أحرف على الأقل"
+}

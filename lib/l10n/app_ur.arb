@@ -1,0 +1,10 @@
+{
+    "helloWorld": "ہیلو ورلڈ!",
+    "emailAddress": "ای میل اڈریس",
+    "password": "پاس ورڈ",
+    "login": "لاگ ان کریں",
+    "emailCannotBeEmpty": "ای میل خالی نہیں ہو سکتی",
+    "emailFormatIncorrect": "غلط ای میل فارمیٹ",
+    "passwordCannotBeEmpty": "پاس ورڈ خالی نہیں ہو سکتا",
+    "passwordLength": "پاس ورڈ کم از کم چھ حروف کا ہونا چاہیے۔"
+}

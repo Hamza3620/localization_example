@@ -1,0 +1,34 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld" : {
+        "description" : "The conventional newborn programmer greeting"
+    },
+    "emailAddress": "Email Address",
+    "@emailAddress": {
+        "description": "Email title for text field"
+    },
+    "password": "Password",
+    "@passwword": {
+        "description": "Password title for text field"
+    },
+    "login": "Login",
+    "@login": {
+        "description": "Login text for button"
+    },
+    "emailCannotBeEmpty": "Email cannot be empty",
+    "@emailCannotBeEmpty": {
+        "description": "Email validation error for empty field"
+    },
+    "emailFormatIncorrect": "Incorrect email format",
+    "@emailFormatIncorrect": {
+        "description": "Email validation error for incorrect format"
+    },
+    "passwordCannotBeEmpty": "Password cannot be empty",
+    "@passwordCannotBeEmpty": {
+        "description": "Password validation error for empty field"
+    },
+    "passwordLength": "Password should be at least six characters long",
+    "@passwordLength": {
+        "description": "Password validation error for length"
+    }
+}
